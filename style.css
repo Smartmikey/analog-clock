@@ -6,6 +6,12 @@
     position: relative;
     top: 200px;
     left: 40%;
+    box-shadow: 0 0 9px -1px;
+}
+
+.time-container {
+    position: relative;
+    top: 19px;
 }
 
 #hours {
@@ -78,4 +84,9 @@
 .four {
     left: 139px;
     top: 254px;
+}
+
+.clock-hands {
+    position: relative;
+    top: 19px;
 }
