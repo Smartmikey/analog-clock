@@ -1,1 +1,1 @@
-# analo-clock
+# analog-clock
